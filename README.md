@@ -1,6 +1,6 @@
 # Pawmate #
 ## About ##
-Pawmate is a fully responsive website and design focused prtotype. It's a dating website for your dogs :)
+Pawmate is a fully responsive website and design-focused prototype. It's a dating website for your dogs :)
 
 ## Website ##
 Check out the website here:
